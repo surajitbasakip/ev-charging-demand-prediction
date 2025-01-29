@@ -32,7 +32,7 @@ pip install tensorflow pandas numpy matplotlib scikit-learn
    cd ev-charging-demand-prediction
    ```
 2. Ensure the dataset file `ev_charging_station.txt` is placed in the correct directory.
-3. Open the Jupyter Notebook `ev_charging.ipynb` and run the cells to train and evaluate the model.
+3. Open the Jupyter Notebook `ev_charging_v2.ipynb` and run the cells to train and evaluate the model.
 
 ## Results
 - The model converges quickly due to the limited dataset size.
